@@ -35,6 +35,7 @@ const PopularDestinations: React.FC = () => {
       image: 'https://images.pexels.com/photos/1388030/pexels-photo-1388030.jpeg?w=300',
       trending: true
     }
+    
   ];
 
   return (
